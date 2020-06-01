@@ -1,0 +1,2 @@
+Theater_simulation: https://realpython.com/simpy-simulating-with-python/
+Traffic_light_simulation: https://www.geeksforgeeks.org/basics-of-discrete-event-simulation-using-simpy/
